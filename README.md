@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23B6E097&title_bg=%23DCDCDC&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRehgud&count_bg=%23ECC1EE&title_bg=%23C4C8F2&icon=&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![DoHyung Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehgud&show_icons=true&theme=Lighthighcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehgud&layout=compact&show_icons=true&theme=Lighthighcontrast)
