@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
+![](https://visitor-badge.glitch.me/badge?page_id=Rbehgud)
+
 ![DoHyung Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehgud&show_icons=true&theme=Lighthighcontrast)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehgud&layout=compact&show_icons=true&theme=Lighthighcontrast)
