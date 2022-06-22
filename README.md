@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ![DoHyung Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoHyungRyu&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehgud&layout=compact&show_icons=true&theme=dark)
