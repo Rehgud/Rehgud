@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Hits](https://hits.sh/github.com/Rehgud.svg?style=for-the-badge&color=d7f6cb&labelColor=ffffff)](https://hits.sh/github.com/Rehgud/)
 
 ![DoHyung Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehgud&show_icons=true&theme=Lighthighcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehgud&layout=compact&show_icons=true&theme=Lighthighcontrast)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehgud)](https://github.com/Rehgud/github-readme-stats)
