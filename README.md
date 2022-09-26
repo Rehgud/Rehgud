@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 ![DoHyung Ryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehgud&show_icons=true&theme=Lighthighcontrast)   
 [![Rehgud's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehgud&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Rehgud)
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
