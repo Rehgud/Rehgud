@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - i want to go to home
 -->
+[![wakatime](https://wakatime.com/badge/user/b20daf8b-878e-4e05-82a6-f551b17479df.svg)](https://wakatime.com/@b20daf8b-878e-4e05-82a6-f551b17479df)
 
 
 [![Hits](https://hits.sh/github.com/Rehgud.svg?style=for-the-badge&color=d7f6cb&labelColor=ffffff)](https://hits.sh/github.com/Rehgud/)
